@@ -1,11 +1,10 @@
-# Smart Autonomous Fire and Gas Detection Robot
-<p align="center">
-  <img src="Robot.jpg" width="600">
-</p>
-
 # 🤖 Smart Autonomous Fire and Gas Detection Robot
 
 ### 🚀 Intelligent Robotics • Embedded Systems • IoT • Environmental Safety
+
+<p align="center">
+  <img src="Robot.jpg" width="600">
+</p>
 
 An ESP32-powered autonomous robot that combines **obstacle avoidance, fire detection, gas monitoring, and real-time environmental sensing** in a single intelligent robotic platform.
 
