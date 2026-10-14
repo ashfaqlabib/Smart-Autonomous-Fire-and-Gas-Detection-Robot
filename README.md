@@ -311,7 +311,7 @@ Never rely on this robot as the sole means of protecting people or property.
 
 I'm passionate about building practical projects that combine hardware, software, electronics, and intelligent automation.
 
-🔗 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+🔗 **GitHub:** [github.com/ashfaqlabib](https://github.com/ashfaqlabib)
 
 ---
 
