@@ -220,8 +220,8 @@ The dashboard retrieves sensor data from the robot's `/data` endpoint and refres
 Replace the placeholders with your GitHub username and repository name.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/ashfaqlabib/Smart-Autonomous-Fire-and-Gas-Detection-Robot.git
+cd Smart-Autonomous-Fire-and-Gas-Detection-Robot
 ```
 
 ### Step 2 — Install the Libraries
